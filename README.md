@@ -1,16 +1,34 @@
-# medical_workbuddy
+# 小han刷题
 
-A new Flutter project.
+西医综合306考研刷题 App · 纯离线 · 免费
 
-## Getting Started
+## 功能
 
-This project is a starting point for a Flutter application.
+- **4 级分层筛选**：学科 → 系统 → 章节 → 考点，精准定位薄弱点
+- **答题练习**：单选 / 多选支持，自动判定 + 解析展示
+- **随机组卷**：按条件自由组卷，模拟真实考场
+- **收藏 & 笔记**：标记重要题目，随时记录考点
+- **JSON 导入**：支持合并 / 替换两种模式，灵活扩展题库
+- **本地存储**：纯 SQLite 离线运行，无需网络
 
-A few resources to get you started if this is your first Flutter project:
+## 题库
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| 学科 | 题数 |
+|:----|:----:|
+| 生理学 | 1,474 |
+| 内科学 | 983 |
+| 病理学 | 336 |
+| **总计** | **2,793** |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 技术栈
+
+Flutter · Riverpod · SQLite · GoRouter
+
+---
+
+## 构建
+
+```bash
+flutter pub get
+flutter build apk --release --target-platform android-arm64 --split-per-abi
+```
