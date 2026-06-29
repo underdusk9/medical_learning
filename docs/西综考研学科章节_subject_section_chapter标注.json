@@ -1,0 +1,1247 @@
+[
+  {
+    "subject": "生理学",
+    "section": "绪论",
+    "chapter": "内环境与稳态"
+  },
+  {
+    "subject": "生理学",
+    "section": "绪论",
+    "chapter": "机体功能调节：神经调节、体液调节、自身调节"
+  },
+  {
+    "subject": "生理学",
+    "section": "绪论",
+    "chapter": "反馈控制：负反馈、正反馈、前馈"
+  },
+  {
+    "subject": "生理学",
+    "section": "细胞的基本功能",
+    "chapter": "细胞膜物质转运"
+  },
+  {
+    "subject": "生理学",
+    "section": "细胞的基本功能",
+    "chapter": "细胞信号转导"
+  },
+  {
+    "subject": "生理学",
+    "section": "细胞的基本功能",
+    "chapter": "生物电现象：静息电位、动作电位"
+  },
+  {
+    "subject": "生理学",
+    "section": "细胞的基本功能",
+    "chapter": "骨骼肌兴奋-收缩耦联"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液",
+    "chapter": "血液组成和理化特性"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液",
+    "chapter": "红细胞生理"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液",
+    "chapter": "白细胞生理"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液",
+    "chapter": "血小板与生理性止血"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液",
+    "chapter": "凝血、抗凝、纤溶"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液",
+    "chapter": "血型与输血原则"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液循环",
+    "chapter": "心脏泵血功能"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液循环",
+    "chapter": "心肌细胞生物电活动"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液循环",
+    "chapter": "心肌生理特性：兴奋性、自律性、传导性、收缩性"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液循环",
+    "chapter": "动脉血压和静脉回流"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液循环",
+    "chapter": "微循环、组织液生成"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液循环",
+    "chapter": "心血管活动调节"
+  },
+  {
+    "subject": "生理学",
+    "section": "血液循环",
+    "chapter": "冠脉循环、脑循环、肺循环"
+  },
+  {
+    "subject": "生理学",
+    "section": "呼吸",
+    "chapter": "肺通气"
+  },
+  {
+    "subject": "生理学",
+    "section": "呼吸",
+    "chapter": "肺换气和组织换气"
+  },
+  {
+    "subject": "生理学",
+    "section": "呼吸",
+    "chapter": "气体在血液中的运输"
+  },
+  {
+    "subject": "生理学",
+    "section": "呼吸",
+    "chapter": "呼吸运动调节"
+  },
+  {
+    "subject": "生理学",
+    "section": "呼吸",
+    "chapter": "缺氧、CO₂、H⁺对呼吸的调节"
+  },
+  {
+    "subject": "生理学",
+    "section": "消化和吸收",
+    "chapter": "消化道平滑肌特性"
+  },
+  {
+    "subject": "生理学",
+    "section": "消化和吸收",
+    "chapter": "消化腺分泌"
+  },
+  {
+    "subject": "生理学",
+    "section": "消化和吸收",
+    "chapter": "胃内消化"
+  },
+  {
+    "subject": "生理学",
+    "section": "消化和吸收",
+    "chapter": "小肠内消化"
+  },
+  {
+    "subject": "生理学",
+    "section": "消化和吸收",
+    "chapter": "大肠功能"
+  },
+  {
+    "subject": "生理学",
+    "section": "消化和吸收",
+    "chapter": "吸收"
+  },
+  {
+    "subject": "生理学",
+    "section": "消化和吸收",
+    "chapter": "消化活动调节"
+  },
+  {
+    "subject": "生理学",
+    "section": "能量代谢和体温",
+    "chapter": "能量代谢"
+  },
+  {
+    "subject": "生理学",
+    "section": "能量代谢和体温",
+    "chapter": "基础代谢率"
+  },
+  {
+    "subject": "生理学",
+    "section": "能量代谢和体温",
+    "chapter": "体温及其调节"
+  },
+  {
+    "subject": "生理学",
+    "section": "能量代谢和体温",
+    "chapter": "发热、散热、产热机制"
+  },
+  {
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过"
+  },
+  {
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小管和集合管重吸收、分泌"
+  },
+  {
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释"
+  },
+  {
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿生成调节"
+  },
+  {
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "排尿反射"
+  },
+  {
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "感受器一般生理"
+  },
+  {
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉"
+  },
+  {
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "听觉"
+  },
+  {
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "前庭功能"
+  },
+  {
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "痛觉、皮肤感觉等"
+  },
+  {
+    "subject": "生理学",
+    "section": "神经系统",
+    "chapter": "神经元和突触传递"
+  },
+  {
+    "subject": "生理学",
+    "section": "神经系统",
+    "chapter": "神经递质和受体"
+  },
+  {
+    "subject": "生理学",
+    "section": "神经系统",
+    "chapter": "反射活动"
+  },
+  {
+    "subject": "生理学",
+    "section": "神经系统",
+    "chapter": "躯体运动调节"
+  },
+  {
+    "subject": "生理学",
+    "section": "神经系统",
+    "chapter": "自主神经系统"
+  },
+  {
+    "subject": "生理学",
+    "section": "神经系统",
+    "chapter": "脑的高级功能"
+  },
+  {
+    "subject": "生理学",
+    "section": "神经系统",
+    "chapter": "睡眠、觉醒、脑电活动"
+  },
+  {
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "激素作用机制"
+  },
+  {
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统"
+  },
+  {
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺"
+  },
+  {
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "肾上腺"
+  },
+  {
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛"
+  },
+  {
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状旁腺、维生素D、降钙素"
+  },
+  {
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "其他内分泌调节"
+  },
+  {
+    "subject": "生理学",
+    "section": "生殖",
+    "chapter": "男性生殖"
+  },
+  {
+    "subject": "生理学",
+    "section": "生殖",
+    "chapter": "女性生殖"
+  },
+  {
+    "subject": "生理学",
+    "section": "生殖",
+    "chapter": "月经周期"
+  },
+  {
+    "subject": "生理学",
+    "section": "生殖",
+    "chapter": "妊娠、分娩、泌乳"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "蛋白质的结构与功能"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "核酸的结构与功能"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "酶"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "维生素"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "糖代谢"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "脂质代谢"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "生物氧化"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "氨基酸代谢"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "核苷酸代谢"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "物质代谢的联系与调节"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "DNA 的生物合成"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "RNA 的生物合成"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "蛋白质的生物合成"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "基因表达调控"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "基因重组与基因工程"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "细胞信号转导"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "血液生化"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "肝胆生化"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "癌基因、抑癌基因与生长因子"
+  },
+  {
+    "subject": "生物化学",
+    "section": "生物化学",
+    "chapter": "常用分子生物学技术原理"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学总论",
+    "chapter": "细胞和组织的适应、损伤与修复"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学总论",
+    "chapter": "局部血液循环障碍"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学总论",
+    "chapter": "炎症"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学总论",
+    "chapter": "肿瘤"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "消化系统疾病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "消化系统疾病 / 慢性胃炎、消化性溃疡等"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "消化系统疾病 / 病毒性肝炎"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "消化系统疾病 / 肝硬化"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "消化系统疾病 / 原发性肝癌"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "消化系统疾病 / 消化道肿瘤"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "循环系统疾病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "循环系统疾病 / 感染性心内膜炎"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "循环系统疾病 / 风湿病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "循环系统疾病 / 高血压"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "循环系统疾病 / 动脉粥样硬化"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "循环系统疾病 / 心肌疾病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "呼吸系统疾病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "呼吸系统疾病 / 慢支炎、肺气肿、肺心病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "呼吸系统疾病 / 支气管扩张"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "呼吸系统疾病 / 肺硅沉着病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "呼吸系统疾病 / 肺炎"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "呼吸系统疾病 / 呼吸系统肿瘤"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "内分泌系统疾病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "免疫性疾病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "生殖系统和乳腺疾病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "感染性疾病"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "感染性疾病 / 结核"
+  },
+  {
+    "subject": "病理学",
+    "section": "病理学各论",
+    "chapter": "感染性疾病 / 其它传染病"
+  },
+  {
+    "subject": "内科学",
+    "section": "诊断学基础",
+    "chapter": "常见症状"
+  },
+  {
+    "subject": "内科学",
+    "section": "诊断学基础",
+    "chapter": "问诊"
+  },
+  {
+    "subject": "内科学",
+    "section": "诊断学基础",
+    "chapter": "体格检查"
+  },
+  {
+    "subject": "内科学",
+    "section": "诊断学基础",
+    "chapter": "实验室检查"
+  },
+  {
+    "subject": "内科学",
+    "section": "诊断学基础",
+    "chapter": "辅助检查"
+  },
+  {
+    "subject": "内科学",
+    "section": "诊断学基础",
+    "chapter": "病历书写与临床诊断思维"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "慢性阻塞性肺疾病"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "支气管哮喘"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "支气管扩张"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "肺炎"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "肺结核"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "原发性支气管肺癌"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "间质性肺疾病"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "肺血栓栓塞症"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "肺动脉高压与肺源性心脏病"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "胸腔积液"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "呼吸衰竭"
+  },
+  {
+    "subject": "内科学",
+    "section": "呼吸系统疾病",
+    "chapter": "急性呼吸窘迫综合征"
+  },
+  {
+    "subject": "内科学",
+    "section": "循环系统疾病",
+    "chapter": "心力衰竭"
+  },
+  {
+    "subject": "内科学",
+    "section": "循环系统疾病",
+    "chapter": "心律失常"
+  },
+  {
+    "subject": "内科学",
+    "section": "循环系统疾病",
+    "chapter": "心脏骤停与心脏性猝死"
+  },
+  {
+    "subject": "内科学",
+    "section": "循环系统疾病",
+    "chapter": "高血压"
+  },
+  {
+    "subject": "内科学",
+    "section": "循环系统疾病",
+    "chapter": "冠状动脉粥样硬化性心脏病"
+  },
+  {
+    "subject": "内科学",
+    "section": "循环系统疾病",
+    "chapter": "心脏瓣膜病"
+  },
+  {
+    "subject": "内科学",
+    "section": "循环系统疾病",
+    "chapter": "感染性心内膜炎"
+  },
+  {
+    "subject": "内科学",
+    "section": "循环系统疾病",
+    "chapter": "心肌疾病"
+  },
+  {
+    "subject": "内科学",
+    "section": "循环系统疾病",
+    "chapter": "心包疾病"
+  },
+  {
+    "subject": "内科学",
+    "section": "循环系统疾病",
+    "chapter": "主动脉和周围血管疾病"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "胃食管反流病"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "食管癌"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "胃炎"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "消化性溃疡"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "胃癌"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "肠结核和结核性腹膜炎"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "炎症性肠病"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "肠易激综合征"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "肝硬化"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "原发性肝癌"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "肝性脑病"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "胰腺炎"
+  },
+  {
+    "subject": "内科学",
+    "section": "消化系统疾病",
+    "chapter": "消化道出血"
+  },
+  {
+    "subject": "内科学",
+    "section": "泌尿系统疾病",
+    "chapter": "肾小球疾病"
+  },
+  {
+    "subject": "内科学",
+    "section": "泌尿系统疾病",
+    "chapter": "肾病综合征"
+  },
+  {
+    "subject": "内科学",
+    "section": "泌尿系统疾病",
+    "chapter": "尿路感染"
+  },
+  {
+    "subject": "内科学",
+    "section": "泌尿系统疾病",
+    "chapter": "急性肾损伤"
+  },
+  {
+    "subject": "内科学",
+    "section": "泌尿系统疾病",
+    "chapter": "慢性肾衰竭"
+  },
+  {
+    "subject": "内科学",
+    "section": "血液系统疾病",
+    "chapter": "贫血"
+  },
+  {
+    "subject": "内科学",
+    "section": "血液系统疾病",
+    "chapter": "白细胞减少和粒细胞缺乏症"
+  },
+  {
+    "subject": "内科学",
+    "section": "血液系统疾病",
+    "chapter": "骨髓增生异常综合征"
+  },
+  {
+    "subject": "内科学",
+    "section": "血液系统疾病",
+    "chapter": "白血病"
+  },
+  {
+    "subject": "内科学",
+    "section": "血液系统疾病",
+    "chapter": "淋巴瘤"
+  },
+  {
+    "subject": "内科学",
+    "section": "血液系统疾病",
+    "chapter": "多发性骨髓瘤"
+  },
+  {
+    "subject": "内科学",
+    "section": "血液系统疾病",
+    "chapter": "出血性疾病"
+  },
+  {
+    "subject": "内科学",
+    "section": "内分泌与代谢疾病",
+    "chapter": "垂体疾病"
+  },
+  {
+    "subject": "内科学",
+    "section": "内分泌与代谢疾病",
+    "chapter": "甲状腺疾病"
+  },
+  {
+    "subject": "内科学",
+    "section": "内分泌与代谢疾病",
+    "chapter": "肾上腺疾病"
+  },
+  {
+    "subject": "内科学",
+    "section": "内分泌与代谢疾病",
+    "chapter": "糖尿病"
+  },
+  {
+    "subject": "内科学",
+    "section": "内分泌与代谢疾病",
+    "chapter": "低血糖症"
+  },
+  {
+    "subject": "内科学",
+    "section": "内分泌与代谢疾病",
+    "chapter": "血脂异常和脂蛋白异常血症"
+  },
+  {
+    "subject": "内科学",
+    "section": "内分泌与代谢疾病",
+    "chapter": "高尿酸血症和痛风"
+  },
+  {
+    "subject": "内科学",
+    "section": "内分泌与代谢疾病",
+    "chapter": "骨质疏松症"
+  },
+  {
+    "subject": "内科学",
+    "section": "风湿免疫性疾病",
+    "chapter": "类风湿关节炎"
+  },
+  {
+    "subject": "内科学",
+    "section": "风湿免疫性疾病",
+    "chapter": "系统性红斑狼疮"
+  },
+  {
+    "subject": "内科学",
+    "section": "风湿免疫性疾病",
+    "chapter": "脊柱关节炎"
+  },
+  {
+    "subject": "内科学",
+    "section": "风湿免疫性疾病",
+    "chapter": "干燥综合征"
+  },
+  {
+    "subject": "内科学",
+    "section": "风湿免疫性疾病",
+    "chapter": "系统性血管炎"
+  },
+  {
+    "subject": "内科学",
+    "section": "风湿免疫性疾病",
+    "chapter": "特发性炎症性肌病"
+  },
+  {
+    "subject": "内科学",
+    "section": "中毒与急危重症",
+    "chapter": "急性中毒"
+  },
+  {
+    "subject": "内科学",
+    "section": "中毒与急危重症",
+    "chapter": "有机磷杀虫药中毒"
+  },
+  {
+    "subject": "内科学",
+    "section": "中毒与急危重症",
+    "chapter": "镇静催眠药中毒"
+  },
+  {
+    "subject": "内科学",
+    "section": "中毒与急危重症",
+    "chapter": "一氧化碳中毒"
+  },
+  {
+    "subject": "内科学",
+    "section": "中毒与急危重症",
+    "chapter": "中暑"
+  },
+  {
+    "subject": "内科学",
+    "section": "中毒与急危重症",
+    "chapter": "休克"
+  },
+  {
+    "subject": "内科学",
+    "section": "中毒与急危重症",
+    "chapter": "多器官功能障碍综合征"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "无菌术"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "外科病人的体液、电解质和酸碱平衡失调"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "输血"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "外科休克"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "麻醉"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "重症监测治疗与复苏"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "围手术期处理"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "外科病人的营养代谢"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "外科感染"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "创伤"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "烧伤、冻伤、蛇咬伤、犬咬伤、虫蜇伤"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "肿瘤"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "移植"
+  },
+  {
+    "subject": "外科学",
+    "section": "外科学总论",
+    "chapter": "微创外科"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "颈部疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "乳房疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "腹外疝"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "腹部损伤"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "急性化脓性腹膜炎"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "胃十二指肠疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "小肠疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "阑尾疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "结、直肠与肛管疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "肝疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "门静脉高压症"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "胆道疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "胰腺疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "脾疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "普通外科",
+    "chapter": "周围血管与淋巴管疾病"
+  },
+  {
+    "subject": "外科学",
+    "section": "胸外科",
+    "chapter": "肋骨骨折"
+  },
+  {
+    "subject": "外科学",
+    "section": "胸外科",
+    "chapter": "气胸"
+  },
+  {
+    "subject": "外科学",
+    "section": "胸外科",
+    "chapter": "血胸"
+  },
+  {
+    "subject": "外科学",
+    "section": "胸外科",
+    "chapter": "创伤性窒息"
+  },
+  {
+    "subject": "外科学",
+    "section": "胸外科",
+    "chapter": "肺癌"
+  },
+  {
+    "subject": "外科学",
+    "section": "胸外科",
+    "chapter": "食管癌"
+  },
+  {
+    "subject": "外科学",
+    "section": "胸外科",
+    "chapter": "纵隔肿瘤"
+  },
+  {
+    "subject": "外科学",
+    "section": "泌尿、男性生殖系统外科",
+    "chapter": "泌尿、男性生殖系统损伤"
+  },
+  {
+    "subject": "外科学",
+    "section": "泌尿、男性生殖系统外科",
+    "chapter": "泌尿、男性生殖系统感染"
+  },
+  {
+    "subject": "外科学",
+    "section": "泌尿、男性生殖系统外科",
+    "chapter": "泌尿系统梗阻"
+  },
+  {
+    "subject": "外科学",
+    "section": "泌尿、男性生殖系统外科",
+    "chapter": "尿石症"
+  },
+  {
+    "subject": "外科学",
+    "section": "泌尿、男性生殖系统外科",
+    "chapter": "泌尿、男性生殖系统肿瘤"
+  },
+  {
+    "subject": "外科学",
+    "section": "泌尿、男性生殖系统外科",
+    "chapter": "泌尿、男性生殖系统结核"
+  },
+  {
+    "subject": "外科学",
+    "section": "泌尿、男性生殖系统外科",
+    "chapter": "泌尿系统先天性畸形"
+  },
+  {
+    "subject": "外科学",
+    "section": "泌尿、男性生殖系统外科",
+    "chapter": "男性性功能障碍、不育与节育"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "骨折概论"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "上肢骨、关节损伤"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "下肢骨、关节损伤"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "脊柱和骨盆骨折"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "周围神经损伤"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "运动系统慢性损伤"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "腰腿痛和颈肩痛"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "骨与关节化脓性感染"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "骨与关节结核"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "非化脓性关节炎"
+  },
+  {
+    "subject": "外科学",
+    "section": "骨科",
+    "chapter": "骨肿瘤"
+  },
+  {
+    "subject": "临床医学人文精神",
+    "section": "临床医学人文精神",
+    "chapter": "医学职业素养"
+  },
+  {
+    "subject": "临床医学人文精神",
+    "section": "临床医学人文精神",
+    "chapter": "医患关系与医患沟通"
+  },
+  {
+    "subject": "临床医学人文精神",
+    "section": "临床医学人文精神",
+    "chapter": "临床伦理"
+  },
+  {
+    "subject": "临床医学人文精神",
+    "section": "临床医学人文精神",
+    "chapter": "医学研究伦理"
+  },
+  {
+    "subject": "临床医学人文精神",
+    "section": "临床医学人文精神",
+    "chapter": "卫生法律法规"
+  },
+  {
+    "subject": "临床医学人文精神",
+    "section": "临床医学人文精神",
+    "chapter": "医疗损害责任"
+  },
+  {
+    "subject": "临床医学人文精神",
+    "section": "临床医学人文精神",
+    "chapter": "临床诊疗中的人文关怀"
+  },
+  {
+    "subject": "临床医学人文精神",
+    "section": "临床医学人文精神",
+    "chapter": "医师职业责任与行为规范"
+  }
+]

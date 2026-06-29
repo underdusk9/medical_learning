@@ -1,0 +1,1806 @@
+[
+  {
+    "id": 5301,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH与IGF的关系",
+    "stem": "生长激素诱导肝细胞等靶细胞产生的间接促生长因子是",
+    "options": [
+      "转化生长因子",
+      "胰岛素样生长因子（IGF）",
+      "表皮生长因子",
+      "成纤维细胞生长因子"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5302,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH分泌的经常性调节",
+    "stem": "对GH分泌起经常性调节作用的下丘脑激素是",
+    "options": [
+      "生长激素释放激素（GHRH）",
+      "生长抑素（SST）",
+      "促甲状腺激素释放激素",
+      "催乳素抑制因子"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5303,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "SST的作用特点",
+    "stem": "生长抑素（SST）发挥抑制GH分泌作用的主要时机是",
+    "options": [
+      "安静状态",
+      "慢波睡眠期",
+      "应激致GH分泌过多时",
+      "低血糖时"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5304,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH分泌的最强刺激因素",
+    "stem": "促进GH分泌最显著的代谢因素是",
+    "options": [
+      "高血糖",
+      "急性低血糖",
+      "高血氨基酸",
+      "高血脂肪酸"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5305,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH对能量代谢的影响",
+    "stem": "生长激素使机体能量来源由糖代谢转向",
+    "options": [
+      "蛋白质代谢",
+      "脂肪代谢",
+      "核酸代谢",
+      "维生素代谢"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5306,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH对蛋白质代谢的作用",
+    "stem": "生长激素对蛋白质代谢的作用是",
+    "options": [
+      "促进分解",
+      "促进合成",
+      "无作用",
+      "既促进分解又促进合成"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5307,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH缺乏的幼年疾病",
+    "stem": "幼年期缺乏GH可导致",
+    "options": [
+      "呆小症",
+      "肢端肥大症",
+      "巨人症",
+      "侏儒症"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 5308,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH过多的幼年疾病",
+    "stem": "幼年期GH分泌过多可导致",
+    "options": [
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症",
+      "库欣综合征"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5309,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH过多的成年疾病",
+    "stem": "成年GH分泌过多可导致",
+    "options": [
+      "巨人症",
+      "肢端肥大症",
+      "呆小症",
+      "黏液性水肿"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5310,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH对血糖的影响",
+    "stem": "GH升高血糖，过量易引发",
+    "options": [
+      "肾性糖尿",
+      "垂体性糖尿",
+      "妊娠期糖尿",
+      "胰岛素性低血糖"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5311,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "IGF-1与临床疾病",
+    "stem": "血中IGF-1显著升高常提示",
+    "options": [
+      "侏儒症",
+      "呆小症",
+      "肢端肥大症",
+      "糖尿病"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5312,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "下丘脑-垂体系统",
+    "stem": "生长激素（GH）的来源",
+    "options": [
+      "腺垂体",
+      "肝细胞等靶细胞",
+      "下丘脑",
+      "神经垂体"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5313,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "下丘脑-垂体系统",
+    "stem": "胰岛素样生长因子（IGF）的来源",
+    "options": [
+      "腺垂体",
+      "肝细胞等靶细胞",
+      "下丘脑",
+      "神经垂体"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5314,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH IGF的来源",
+    "stem": "幼年期GH缺乏",
+    "options": [
+      "腺垂体",
+      "肝细胞等靶细胞",
+      "下丘脑",
+      "神经垂体",
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症",
+      "呆小症"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5315,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH IGF的来源",
+    "stem": "幼年期GH分泌过多",
+    "options": [
+      "腺垂体",
+      "肝细胞等靶细胞",
+      "下丘脑",
+      "神经垂体",
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症",
+      "呆小症"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5316,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH IGF的来源",
+    "stem": "成年GH分泌过多",
+    "options": [
+      "腺垂体",
+      "肝细胞等靶细胞",
+      "下丘脑",
+      "神经垂体",
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症",
+      "呆小症"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5317,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH异常相关疾病",
+    "stem": "慢波睡眠",
+    "options": [
+      "腺垂体",
+      "肝细胞等靶细胞",
+      "下丘脑",
+      "神经垂体",
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症",
+      "呆小症",
+      "促进GH分泌",
+      "抑制GH分泌"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5318,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH异常相关疾病",
+    "stem": "血糖升高",
+    "options": [
+      "腺垂体",
+      "肝细胞等靶细胞",
+      "下丘脑",
+      "神经垂体",
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症",
+      "呆小症",
+      "促进GH分泌",
+      "抑制GH分泌"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5319,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH异常相关疾病",
+    "stem": "急性低血糖",
+    "options": [
+      "腺垂体",
+      "肝细胞等靶细胞",
+      "下丘脑",
+      "神经垂体",
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症",
+      "呆小症",
+      "促进GH分泌",
+      "抑制GH分泌"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5320,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH分泌调节",
+    "stem": "生长抑素（SST）",
+    "options": [
+      "腺垂体",
+      "肝细胞等靶细胞",
+      "下丘脑",
+      "神经垂体",
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症",
+      "呆小症",
+      "促进GH分泌",
+      "抑制GH分泌"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5321,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH的物质代谢效应",
+    "stem": "生长激素的物质代谢作用包括",
+    "options": [
+      "升高血糖",
+      "促进脂肪分解",
+      "促进蛋白质合成",
+      "促进脂肪合成"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 5322,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH分泌的促进因素",
+    "stem": "可促进GH分泌的因素有",
+    "options": [
+      "慢波睡眠",
+      "急性低血糖、饥饿、运动",
+      "精氨酸",
+      "胰高血糖素"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5323,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH分泌的抑制因素",
+    "stem": "可抑制GH分泌的因素有",
+    "options": [
+      "血糖升高",
+      "衰老",
+      "生长抑素（SST）",
+      "GH与IGF-1负反馈"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5324,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH过多的代谢异常",
+    "stem": "生长激素分泌过多可引发",
+    "options": [
+      "垂体性糖尿",
+      "酮症",
+      "脂肪肝",
+      "高钙血症"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 5325,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "GH的协同作用激素",
+    "stem": "与GH协同促进骨骼生长的激素有",
+    "options": [
+      "甲状腺激素",
+      "雄激素",
+      "雌激素",
+      "胰岛素"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 5326,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "激素/物质对应来源/作用",
+    "stem": "GH 对应的是（ ）",
+    "options": [
+      "腺垂体分泌",
+      "肝细胞产生",
+      "促进GH分泌",
+      "抑制GH分泌"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5327,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "激素/物质对应来源/作用",
+    "stem": "IGF 对应的是（ ）",
+    "options": [
+      "腺垂体分泌",
+      "肝细胞产生",
+      "促进GH分泌",
+      "抑制GH分泌"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5328,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "激素/物质对应来源/作用",
+    "stem": "GHRH 对应的是（ ）",
+    "options": [
+      "腺垂体分泌",
+      "肝细胞产生",
+      "促进GH分泌",
+      "抑制GH分泌"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5329,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "激素/物质对应来源/作用",
+    "stem": "SST 对应的是（ ）",
+    "options": [
+      "腺垂体分泌",
+      "肝细胞产生",
+      "促进GH分泌",
+      "抑制GH分泌"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 5330,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "分泌状态对应疾病",
+    "stem": "幼年期GH缺乏 对应的是（ ）",
+    "options": [
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5331,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "分泌状态对应疾病",
+    "stem": "幼年期GH过多 对应的是（ ）",
+    "options": [
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5332,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "分泌状态对应疾病",
+    "stem": "成年GH过多 对应的是（ ）",
+    "options": [
+      "侏儒症",
+      "巨人症",
+      "肢端肥大症"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5333,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "代谢效应对应结果",
+    "stem": "升血糖 对应的是（ ）",
+    "options": [
+      "垂体性糖尿",
+      "B",
+      "C"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5334,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "代谢效应对应结果",
+    "stem": "促脂解 对应的是（ ）",
+    "options": [
+      "垂体性糖尿",
+      "B",
+      "C"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5335,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "下丘脑-垂体系统",
+    "topic": "代谢效应对应结果",
+    "stem": "促蛋白合成 对应的是（ ）",
+    "options": [
+      "垂体性糖尿",
+      "B",
+      "C"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5336,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素受体底物的组织分布",
+    "stem": "胰岛素受体底物IRS-1 主要表达于",
+    "options": [
+      "肝脏",
+      "骨骼肌",
+      "脂肪",
+      "脑"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5337,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "IRS 与胰岛素抵抗",
+    "stem": "胰岛素抵抗的发生原因之一是",
+    "options": [
+      "IRS-1 增多、IRS-2 减少",
+      "IRS-1 减少、IRS-2 增多",
+      "IRS-3 增多、IRS-4 减少",
+      "IRS-3 减少、IRS-4 增多"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5338,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素对糖代谢的影响",
+    "stem": "胰岛素对血糖的调节作用是",
+    "options": [
+      "促进糖原分解",
+      "促进糖异生",
+      "抑制葡萄糖摄取",
+      "促进糖原合成"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 5339,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素分泌的最主要影响因素",
+    "stem": "刺激胰岛素分泌最主要的因素是",
+    "options": [
+      "血氨基酸升高",
+      "血糖升高",
+      "胃肠激素",
+      "神经调节"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5340,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "葡萄糖促胰岛素分泌的机制",
+    "stem": "葡萄糖刺激胰岛B 细胞分泌胰岛素的关键通道是",
+    "options": [
+      "电压门控钠通道",
+      "ATP 敏感钾通道",
+      "钙激活钾通道",
+      "氯离子通道"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5341,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "促胰岛素分泌剂作用机制",
+    "stem": "磺酰脲类降糖药的作用机制是",
+    "options": [
+      "开放ATP 敏感钾通道",
+      "关闭ATP 敏感钾通道",
+      "激活α2 受体",
+      "阻断M 受体"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5342,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "神经调节对胰岛素分泌的影响",
+    "stem": "迷走神经对胰岛素分泌的影响是",
+    "options": [
+      "促进分泌",
+      "抑制分泌",
+      "无影响",
+      "先抑制后促进"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5343,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "交感神经对胰岛素分泌的调节",
+    "stem": "交感神经兴奋时，对胰岛素分泌的主要作用是",
+    "options": [
+      "促进",
+      "抑制",
+      "双向调节",
+      "无作用"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5344,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "肠促胰素的种类",
+    "stem": "下列属于肠促胰素的是",
+    "options": [
+      "生长抑素",
+      "胰抑素",
+      "抑胃肽（GIP）",
+      "甘丙肽"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5345,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰高血糖素的主要靶器官",
+    "stem": "胰高血糖素调节糖代谢的主要靶器官是",
+    "options": [
+      "骨骼肌",
+      "肝脏",
+      "脂肪组织",
+      "脑"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5346,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "旁分泌对胰岛素分泌的调节",
+    "stem": "下列通过旁分泌方式抑制胰岛素分泌的是",
+    "options": [
+      "胰高血糖素",
+      "生长抑素",
+      "抑胃肽",
+      "促胰液素"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5347,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "肠促胰素的前馈调节",
+    "stem": "口服葡萄糖比静脉注射葡萄糖引起更多胰岛素分泌的原因是",
+    "options": [
+      "小肠吸收更完全",
+      "胃肠激素（肠促胰素）的作用",
+      "胰岛血流量变化",
+      "葡萄糖浓度更高"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5348,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素对钾离子的影响",
+    "stem": "胰岛素可用于治疗高钾血症的原因是",
+    "options": [
+      "促进K⁺排出体外",
+      "促进K⁺进入细胞内",
+      "抑制K⁺重吸收",
+      "拮抗醛固酮作用"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5349,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素受体类型",
+    "stem": "胰岛素的受体类型是",
+    "options": [
+      "酪氨酸激酶受体",
+      "G 蛋白偶联受体",
+      "离子通道型受体",
+      "核受体"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5350,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素分泌的抑制因素",
+    "stem": "下列可抑制胰岛素分泌的因素是",
+    "options": [
+      "游离脂肪酸增多",
+      "抑胃肽增多",
+      "交感神经兴奋",
+      "生长激素增多"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5351,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛",
+    "stem": "主要表达于肝脏、胰岛B 细胞",
+    "options": [
+      "IRS-1",
+      "IRS-2",
+      "IRS-3",
+      "IRS-4"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5352,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛",
+    "stem": "主要表达于骨骼肌",
+    "options": [
+      "IRS-1",
+      "IRS-2",
+      "IRS-3",
+      "IRS-4"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5353,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素受体底物组织分布",
+    "stem": "迷走神经兴奋",
+    "options": [
+      "IRS-1",
+      "IRS-2",
+      "IRS-3",
+      "IRS-4",
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5354,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素受体底物组织分布",
+    "stem": "交感神经兴奋",
+    "options": [
+      "IRS-1",
+      "IRS-2",
+      "IRS-3",
+      "IRS-4",
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5355,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素受体底物组织分布",
+    "stem": "生长抑素",
+    "options": [
+      "IRS-1",
+      "IRS-2",
+      "IRS-3",
+      "IRS-4",
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5356,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "神经与旁分泌对激素分泌的调节",
+    "stem": "胰岛素的受体",
+    "options": [
+      "IRS-1",
+      "IRS-2",
+      "IRS-3",
+      "IRS-4",
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌",
+      "酪氨酸激酶受体",
+      "G 蛋白偶联受体（GPCR）",
+      "离子通道受体",
+      "细胞内受体"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5357,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "神经与旁分泌对激素分泌的调节",
+    "stem": "胰高血糖素的受体",
+    "options": [
+      "IRS-1",
+      "IRS-2",
+      "IRS-3",
+      "IRS-4",
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌",
+      "酪氨酸激酶受体",
+      "G 蛋白偶联受体（GPCR）",
+      "离子通道受体",
+      "细胞内受体"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5358,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素与胰高血糖素受体类型",
+    "stem": "胰高血糖素主要靶器官",
+    "options": [
+      "IRS-1",
+      "IRS-2",
+      "IRS-3",
+      "IRS-4",
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌",
+      "酪氨酸激酶受体",
+      "G 蛋白偶联受体（GPCR）",
+      "离子通道受体",
+      "细胞内受体",
+      "肝脏",
+      "骨骼肌、脂肪",
+      "脑",
+      "肾脏"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5359,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素与胰高血糖素靶器官",
+    "stem": "胰岛素作用的重要外周组织",
+    "options": [
+      "IRS-1",
+      "IRS-2",
+      "IRS-3",
+      "IRS-4",
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌",
+      "酪氨酸激酶受体",
+      "G 蛋白偶联受体（GPCR）",
+      "离子通道受体",
+      "细胞内受体",
+      "肝脏",
+      "骨骼肌、脂肪",
+      "脑",
+      "肾脏"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5360,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素对物质代谢的影响",
+    "stem": "胰岛素的生物学作用包括",
+    "options": [
+      "促进蛋白质合成",
+      "促进脂肪合成",
+      "促进糖原合成",
+      "抑制糖异生"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5361,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素分泌的促进因素",
+    "stem": "促进胰岛素分泌的因素有",
+    "options": [
+      "血糖升高",
+      "抑胃肽（GIP）",
+      "胰高血糖素样肽（GLP）",
+      "迷走神经兴奋"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5362,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素分泌的抑制因素",
+    "stem": "抑制胰岛素分泌的因素包括",
+    "options": [
+      "交感神经兴奋",
+      "生长抑素",
+      "低血钾",
+      "胰抑素"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5363,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "肠促胰素特点",
+    "stem": "关于肠促胰素，下列说法正确的是",
+    "options": [
+      "包括GIP 和GLP",
+      "葡萄糖依赖性促胰岛素分泌",
+      "可被DPP-4 降解",
+      "发挥前馈调节作用"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5364,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰高血糖素核心特点",
+    "stem": "胰高血糖素的特点包括",
+    "options": [
+      "由胰岛A 细胞分泌",
+      "主要靶器官是肝脏",
+      "促进物质分解代谢",
+      "受体为GPCR"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5365,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素促生长作用",
+    "stem": "胰岛素促生长的特点包括",
+    "options": [
+      "直接通过胰岛素受体作用",
+      "间接通过生长激素/IGF作用",
+      "单独作用促生长效果弱",
+      "与生长激素协同作用明显"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5366,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素与胰高血糖素分泌及代谢调节",
+    "stem": "胰岛素 对应的是（ ）",
+    "options": [
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌",
+      "升血糖",
+      "降血糖"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 5367,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素与胰高血糖素分泌及代谢调节",
+    "stem": "胰高血糖素 对应的是（ ）",
+    "options": [
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌",
+      "升血糖",
+      "降血糖"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5368,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素与胰高血糖素分泌及代谢调节",
+    "stem": "生长抑素 对应的是（ ）",
+    "options": [
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌",
+      "升血糖",
+      "降血糖"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5369,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素与胰高血糖素分泌及代谢调节",
+    "stem": "GLP-1 对应的是（ ）",
+    "options": [
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌",
+      "升血糖",
+      "降血糖"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5370,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素与胰高血糖素分泌及代谢调节",
+    "stem": "交感神经（α2-R） 对应的是（ ）",
+    "options": [
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌",
+      "升血糖",
+      "降血糖"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5371,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "胰岛",
+    "topic": "胰岛素与胰高血糖素分泌及代谢调节",
+    "stem": "迷走神经（M-R） 对应的是（ ）",
+    "options": [
+      "促进胰岛素分泌",
+      "抑制胰岛素分泌",
+      "升血糖",
+      "降血糖"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5372,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素活性比较",
+    "stem": "人体内活性最强的甲状腺激素是（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "MIT"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5373,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素合成关键酶",
+    "stem": "甲状腺激素合成时，酪氨酸碘化与缩合的关键酶是（  ）",
+    "options": [
+      "腺苷酸环化酶",
+      "甲状腺过氧化物酶（TPO）",
+      "脱碘酶",
+      "蛋白酶"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5374,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素储存部位",
+    "stem": "甲状腺激素主要储存于何处（  ）",
+    "options": [
+      "滤泡腔（胶质）",
+      "甲状腺滤泡上皮细胞内",
+      "血液",
+      "淋巴液"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5375,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素对神经系统发育的作用",
+    "stem": "胚胎及幼儿期缺乏可导致呆小症的激素是（  ）",
+    "options": [
+      "生长激素",
+      "胰岛素",
+      "甲状腺激素",
+      "糖皮质激素"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5376,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素对脂类代谢的影响",
+    "stem": "甲亢患者血胆固醇水平变化是（  ）",
+    "options": [
+      "升高",
+      "降低",
+      "不变",
+      "先升后降"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5377,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素化学本质",
+    "stem": "甲状腺激素的化学本质是（  ）",
+    "options": [
+      "类固醇",
+      "肽类",
+      "胺类",
+      "糖蛋白"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5378,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素作用机制",
+    "stem": "甲状腺激素作用的受体类型是（  ）",
+    "options": [
+      "G 蛋白耦联受体",
+      "离子通道型受体",
+      "核受体",
+      "酪氨酸激酶受体"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5379,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素分泌调节（缺碘）",
+    "stem": "单纯性甲状腺肿的主要发病机制是（  ）",
+    "options": [
+      "TSH 分泌减少",
+      "碘缺乏→TH 合成↓→TSH↑",
+      "甲状腺自身免疫破坏",
+      "TPO 活性过高"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5380,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素对糖代谢的影响",
+    "stem": "甲状腺激素对血糖的影响是（  ）",
+    "options": [
+      "只升高血糖",
+      "只降低血糖",
+      "先降后升",
+      "先升后降"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 5381,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素储存特点",
+    "stem": "甲状腺激素储存量可维持机体代谢的时间约为（  ）",
+    "options": [
+      "1-7 天",
+      "2-4 周",
+      "50-120 天",
+      "半年以上"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5382,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺",
+    "stem": "血液中含量最多的甲状腺激素是（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "TBG"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5383,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺",
+    "stem": "活性最高、80%由外周T4 转化而来的是（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "TBG"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5384,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺",
+    "stem": "无生物活性的甲状腺激素是（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "TBG"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5385,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺",
+    "stem": "血浆中亲和力最高、结合运输TH 的蛋白质是（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "TBG"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 5386,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素种类与运输蛋白",
+    "stem": "丙硫氧嘧啶（PTU）的核心作用是（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "TBG",
+      "抑制TH 合成",
+      "抑制TH 释放",
+      "抑制T4 转化为T3",
+      "阻断β受体"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5387,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素种类与运输蛋白",
+    "stem": "大剂量碘的主要作用是（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "TBG",
+      "抑制TH 合成",
+      "抑制TH 释放",
+      "抑制T4 转化为T3",
+      "阻断β受体"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5388,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素种类与运输蛋白",
+    "stem": "普萘洛尔治疗甲亢的主要机制是（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "TBG",
+      "抑制TH 合成",
+      "抑制TH 释放",
+      "抑制T4 转化为T3",
+      "阻断β受体"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 5389,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲亢治疗药物作用机制",
+    "stem": "幼儿期甲状腺激素缺乏导致（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "TBG",
+      "抑制TH 合成",
+      "抑制TH 释放",
+      "抑制T4 转化为T3",
+      "阻断β受体",
+      "呆小症",
+      "黏液性水肿",
+      "周期性瘫痪"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5390,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲亢治疗药物作用机制",
+    "stem": "甲状腺功能减退可出现（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "TBG",
+      "抑制TH 合成",
+      "抑制TH 释放",
+      "抑制T4 转化为T3",
+      "阻断β受体",
+      "呆小症",
+      "黏液性水肿",
+      "周期性瘫痪"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5391,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲亢与甲减典型表现",
+    "stem": "甲亢患者钾分布异常可出现（  ）",
+    "options": [
+      "T4",
+      "T3",
+      "rT3",
+      "TBG",
+      "抑制TH 合成",
+      "抑制TH 释放",
+      "抑制T4 转化为T3",
+      "阻断β受体",
+      "呆小症",
+      "黏液性水肿",
+      "周期性瘫痪"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 5392,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素产热效应",
+    "stem": "甲状腺激素的产热机制包括（  ）",
+    "options": [
+      "诱导解耦联蛋白表达",
+      "增加线粒体数量与体积",
+      "增强钠钾泵活性",
+      "促进ATP 大量合成"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 5393,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素对心血管系统作用",
+    "stem": "甲状腺激素对心脏的作用包括（  ）",
+    "options": [
+      "增强心肌收缩力",
+      "升高收缩压",
+      "降低舒张压",
+      "增加冠脉血流量"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5394,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素合成过程",
+    "stem": "属于甲状腺激素合成环节的是（  ）",
+    "options": [
+      "滤泡上皮细胞聚碘",
+      "碘活化",
+      "酪氨酸碘化",
+      "碘化酪氨酸缩合"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5395,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺激素分泌调节",
+    "stem": "甲状腺激素分泌的调节方式有（  ）",
+    "options": [
+      "下丘脑-腺垂体-甲状腺轴",
+      "交感神经调节",
+      "碘的自身调节",
+      "免疫调节"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5396,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺功能亢进的表现",
+    "stem": "甲亢患者可出现的临床表现有（  ）",
+    "options": [
+      "怕热多汗",
+      "骨质疏松",
+      "周期性瘫痪",
+      "体重下降"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 5397,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "甲状腺自身调节（碘阻滞效应）",
+    "stem": "关于碘阻滞效应（Wolf-Chaikoff 效应）正确的是（  ）",
+    "options": [
+      "血碘过高时TH 合成释放减少",
+      "可用于甲状腺危象治疗",
+      "效应可发生脱逸",
+      "可长期用于甲亢内科治疗"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 5398,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "将激素/物质与核心功能连线",
+    "stem": "T3 对应的是（ ）",
+    "options": [
+      "活性最高的甲状腺激素",
+      "含量最多的甲状腺激素",
+      "血浆运输TH、亲和力最高",
+      "催化碘化与缩合",
+      "无活性"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 5399,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "将激素/物质与核心功能连线",
+    "stem": "T4 对应的是（ ）",
+    "options": [
+      "活性最高的甲状腺激素",
+      "含量最多的甲状腺激素",
+      "血浆运输TH、亲和力最高",
+      "催化碘化与缩合",
+      "无活性"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5400,
+    "type": "single",
+    "subject": "生理学",
+    "section": "内分泌",
+    "chapter": "甲状腺",
+    "topic": "将激素/物质与核心功能连线",
+    "stem": "TBG 对应的是（ ）",
+    "options": [
+      "活性最高的甲状腺激素",
+      "含量最多的甲状腺激素",
+      "血浆运输TH、亲和力最高",
+      "催化碘化与缩合",
+      "无活性"
+    ],
+    "answer": "C",
+    "analysis": ""
+  }
+]

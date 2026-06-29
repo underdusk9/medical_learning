@@ -1,0 +1,66 @@
+classDiagram
+    class AppColors {
+        <<static>>
+        +Color primary = #5C7B9A
+        +Color primaryLight = #E8EDF2
+        +Color primaryDark = #3D5A78
+        +Color correct = #66BB6A
+        +Color wrong = #EF5350
+        +Color bookmark = #FFB74D
+        +Color unanswered = #9E9E9E
+        +Color background = #F5F7FA
+        +Color cardBackground = #FFFFFF
+        +Color cardBorder = #E0E4E8
+        +Color textPrimary = #2C3E50
+        +Color textSecondary = #7B8A9B
+        +Color appBarBackground = #FFFFFF
+    }
+
+    class AppStyles {
+        <<static>>
+        +BorderRadius radiusCard = 12
+        +BorderRadius radiusButton = 8
+        +BorderRadius radiusChip = 6
+        +BoxBorder cardBorder
+        +BoxBorder unselectedOptionBorder
+        +List~BoxShadow~ cardShadow
+        +List~BoxShadow~ appBarShadow
+        +List~BoxShadow~ buttonShadow
+        +EdgeInsets paddingCard
+        +EdgeInsets paddingPage
+        +EdgeInsets paddingOption
+        +TextStyle textPageTitle
+        +TextStyle textSectionTitle
+        +TextStyle textBodySecondary
+        +OptionStyle styleForOption(OptionState state)
+    }
+
+    class OptionState {
+        <<enumeration>>
+        +unselected
+        +selectedBeforeAnswer
+        +correctAfterAnswer
+        +wrongAfterAnswer
+        +unselectedAfterAnswer
+    }
+
+    class OptionStyle {
+        +Color borderColor
+        +Color bgColor
+        +Color textColor
+        +Color labelBgColor
+        +Color labelFgColor
+        +IconData? trailingIcon
+        +double borderWidth
+    }
+
+    class AppTheme {
+        <<static>>
+        +ThemeData lightTheme
+    }
+
+    AppStyles ..> AppColors : uses
+    AppStyles ..> OptionState : uses
+    AppStyles ..> OptionStyle : produces
+    AppTheme ..> AppColors : uses
+    AppTheme ..> AppStyles : uses

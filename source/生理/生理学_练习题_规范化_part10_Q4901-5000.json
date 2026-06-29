@@ -1,0 +1,1798 @@
+[
+  {
+    "id": 4901,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过",
+    "topic": "血浆胶体渗透压对GFR的影响",
+    "stem": "可使血浆胶体渗透压下降 ， 进而升高GFR的情况有（  ）",
+    "options": [
+      "大量输液",
+      "肝功能受损",
+      "肾小球通透性增大",
+      "剧烈运动"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 4902,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过",
+    "topic": "血浆胶体渗透压对GFR的影响",
+    "stem": "属于与体表面积相关的指标有（  ）",
+    "options": [
+      "肾小球滤过率",
+      "心指数",
+      "基础代谢率",
+      "比顺应性"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 4903,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过",
+    "topic": "左侧因素与右侧GFR变化连线",
+    "stem": "肾血浆流量↑ 对应的是（ ）",
+    "options": [
+      "GFR↑",
+      "GFR↓",
+      "GFR不变"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4904,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过",
+    "topic": "左侧因素与右侧GFR变化连线",
+    "stem": "交感神经兴奋 对应的是（ ）",
+    "options": [
+      "GFR↑",
+      "GFR↓",
+      "GFR不变"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4905,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过",
+    "topic": "左侧因素与右侧GFR变化连线",
+    "stem": "血浆胶体渗透压↓ 对应的是（ ）",
+    "options": [
+      "GFR↑",
+      "GFR↓",
+      "GFR不变"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4906,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过",
+    "topic": "左侧因素与右侧GFR变化连线",
+    "stem": "肾盂积水 对应的是（ ）",
+    "options": [
+      "GFR↑",
+      "GFR↓",
+      "GFR不变"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4907,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过",
+    "topic": "左侧结构与右侧功能连线",
+    "stem": "基膜 对应的是（ ）",
+    "options": [
+      "机械屏障最强",
+      "电荷屏障核心（裂孔素）",
+      "调节滤过面积",
+      "初步机械屏障"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4908,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过",
+    "topic": "左侧结构与右侧功能连线",
+    "stem": "足细胞 对应的是（ ）",
+    "options": [
+      "机械屏障最强",
+      "电荷屏障核心（裂孔素）",
+      "调节滤过面积",
+      "初步机械屏障"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4909,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过",
+    "topic": "左侧结构与右侧功能连线",
+    "stem": "系膜细胞 对应的是（ ）",
+    "options": [
+      "机械屏障最强",
+      "电荷屏障核心（裂孔素）",
+      "调节滤过面积",
+      "初步机械屏障"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4910,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "肾小球滤过",
+    "topic": "左侧结构与右侧功能连线",
+    "stem": "内皮细胞 对应的是（ ）",
+    "options": [
+      "机械屏障最强",
+      "电荷屏障核心（裂孔素）",
+      "调节滤过面积",
+      "初步机械屏障"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4911,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "球管平衡（定比重吸收）",
+    "stem": "近端小管对Na⁺ 和水的重吸收率占肾小球滤过率的比例是（  ）",
+    "options": [
+      "50%~60%",
+      "65%~70%",
+      "75%~80%",
+      "85%~90%"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4912,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "近端小管物质重吸收",
+    "stem": "葡萄糖在肾小管中100%重吸收的部位是（  ）",
+    "options": [
+      "近端小管",
+      "髓袢降支细段",
+      "远曲小管",
+      "集合管"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4913,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "肾糖阈概念",
+    "stem": "肾糖阈指尿中刚开始出现葡萄糖的最低血糖浓度，其数值约为（  ）",
+    "options": [
+      "100mg/dl",
+      "180mg/dl",
+      "250mg/dl",
+      "300mg/dl"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4914,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "HCO₃⁻ 重吸收机制",
+    "stem": "近端小管重吸收HCO₃⁻ 的形式是（  ）",
+    "options": [
+      "HCO₃⁻ 直接重吸收",
+      "Cl⁻ 交换形式",
+      "H₂ CO₃ 形式",
+      "CO₂ 形式"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4915,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "K⁺ 与H⁺ 分泌的竞争关系",
+    "stem": "泌H⁺ 与泌K⁺ 存在的关系是（  ）",
+    "options": [
+      "协同促进",
+      "互不影响",
+      "竞争性抑制",
+      "正反馈调节"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4916,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "集合管主细胞功能",
+    "stem": "集合管主细胞的主要功能是（  ）",
+    "options": [
+      "重吸收Na⁺ 、分泌K⁺",
+      "重吸收K⁺ 、分泌H⁺",
+      "重吸收HCO₃⁻ 、分泌NH₃",
+      "重吸收葡萄糖、氨基酸"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4917,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "尿浓缩稀释的调节",
+    "stem": "尿液浓缩的关键体液调节因子是（  ）",
+    "options": [
+      "醛固酮",
+      "血管紧张素Ⅱ",
+      "血管升压素（ADH）",
+      "心房钠尿肽"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4918,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "ADH 的作用机制",
+    "stem": "ADH 作用于集合管主细胞，调控的水通道蛋白是（  ）",
+    "options": [
+      "AQP-1",
+      "AQP-2",
+      "AQP-3",
+      "AQP-4"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4919,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "肾髓质高渗梯度形成",
+    "stem": "建立肾外髓部高渗梯度的最重要起始动力是（  ）",
+    "options": [
+      "髓袢降支细段水重吸收",
+      "直小血管逆流交换",
+      "尿素再循环",
+      "髓袢升支粗段Na⁺ -K⁺ -2Cl⁻ 主动转运"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4920,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "直小血管功能",
+    "stem": "直小血管的主要功能是（  ）",
+    "options": [
+      "形成肾髓质高渗梯度",
+      "维持肾髓质间质高渗状态",
+      "分泌肾素",
+      "重吸收葡萄糖"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4921,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "利尿剂作用机制",
+    "stem": "呋塞米（袢利尿剂）的作用靶点是（  ）",
+    "options": [
+      "近端小管Na⁺ -H⁺ 交换",
+      "远曲小管Na⁺ -Cl⁻ 同向转运体",
+      "髓袢升支粗段Na⁺ -K⁺ -2Cl⁻ 同向转运体",
+      "集合管ENaC"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4922,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "ADH 分泌调节",
+    "stem": "大量出汗时尿量减少的主要原因是（  ）",
+    "options": [
+      "醛固酮分泌增多",
+      "肾交感神经兴奋",
+      "ADH 分泌增多",
+      "肾小球滤过率下降"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4923,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "渗透性利尿",
+    "stem": "糖尿病患者多尿的机制属于（  ）",
+    "options": [
+      "渗透性利尿",
+      "水利尿",
+      "醛固酮增多",
+      "交感神经兴奋"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4924,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "H⁺ 分泌与碳酸酐酶",
+    "stem": "肾小管泌酸维持酸碱平衡的关键酶是（  ）",
+    "options": [
+      "钠-钾ATP 酶",
+      "磷酸二酯酶",
+      "环加氧酶",
+      "碳酸酐酶（CA）"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4925,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "各段肾小管通透性特点",
+    "stem": "对水不通透、对NaCl 易通透的肾小管节段是（  ）",
+    "options": [
+      "髓袢降支细段",
+      "髓袢升支粗段",
+      "近端小管",
+      "集合管"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4926,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "尿液浓缩和稀释",
+    "stem": "重吸收葡萄糖、氨基酸的主要部位（  ）",
+    "options": [
+      "近端小管",
+      "髓袢升支粗段",
+      "远曲小管",
+      "集合管主细胞"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4927,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "尿液浓缩和稀释",
+    "stem": "分泌K⁺ 的主要部位（  ）",
+    "options": [
+      "近端小管",
+      "髓袢升支粗段",
+      "远曲小管",
+      "集合管主细胞"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4928,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "尿液浓缩和稀释",
+    "stem": "被呋塞米特异性抑制的部位（  ）",
+    "options": [
+      "近端小管",
+      "髓袢升支粗段",
+      "远曲小管",
+      "集合管主细胞"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4929,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "肾小管各段功能定位",
+    "stem": "醛固酮的作用（  ）",
+    "options": [
+      "近端小管",
+      "髓袢升支粗段",
+      "远曲小管",
+      "集合管主细胞",
+      "保钠、保水、排钾",
+      "提高集合管对水通透性",
+      "利尿、排钠、排水",
+      "收缩入球小动脉"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4930,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "肾小管各段功能定位",
+    "stem": "ADH 的作用（  ）",
+    "options": [
+      "近端小管",
+      "髓袢升支粗段",
+      "远曲小管",
+      "集合管主细胞",
+      "保钠、保水、排钾",
+      "提高集合管对水通透性",
+      "利尿、排钠、排水",
+      "收缩入球小动脉"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4931,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "肾小管各段功能定位",
+    "stem": "心房钠尿肽（ANP）的作用（  ）",
+    "options": [
+      "近端小管",
+      "髓袢升支粗段",
+      "远曲小管",
+      "集合管主细胞",
+      "保钠、保水、排钾",
+      "提高集合管对水通透性",
+      "利尿、排钠、排水",
+      "收缩入球小动脉"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4932,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "体液调节因子作用",
+    "stem": "代谢性酸中毒常伴随（  ）",
+    "options": [
+      "近端小管",
+      "髓袢升支粗段",
+      "远曲小管",
+      "集合管主细胞",
+      "保钠、保水、排钾",
+      "提高集合管对水通透性",
+      "利尿、排钠、排水",
+      "收缩入球小动脉",
+      "高钾酸中毒",
+      "低钾碱中毒",
+      "高钾碱中毒",
+      "低钾酸中毒"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4933,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "K⁺ 与酸碱平衡紊乱",
+    "stem": "大量输库存血常伴随（  ）",
+    "options": [
+      "近端小管",
+      "髓袢升支粗段",
+      "远曲小管",
+      "集合管主细胞",
+      "保钠、保水、排钾",
+      "提高集合管对水通透性",
+      "利尿、排钠、排水",
+      "收缩入球小动脉",
+      "高钾酸中毒",
+      "低钾碱中毒",
+      "高钾碱中毒",
+      "低钾酸中毒"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4934,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "近端小管功能",
+    "stem": "属于近端小管重吸收的特点有（  ）",
+    "options": [
+      "Na⁺ 、水重吸收占67%",
+      "葡萄糖、氨基酸100%重吸收",
+      "是物质重吸收主要部位",
+      "分泌K⁺ 为主"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 4935,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "ADH 分泌调节",
+    "stem": "促进ADH 释放的因素有（  ）",
+    "options": [
+      "血浆晶体渗透压升高",
+      "血容量减少",
+      "乙醇摄入",
+      "疼痛、应激"
+    ],
+    "answer": "ABD",
+    "analysis": ""
+  },
+  {
+    "id": 4936,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "醛固酮调节",
+    "stem": "促进醛固酮分泌的因素有（  ）",
+    "options": [
+      "血容量减少",
+      "高血钾",
+      "低血钠",
+      "血管紧张素Ⅱ增多"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 4937,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "尿浓缩条件",
+    "stem": "尿液浓缩的必备条件包括（  ）",
+    "options": [
+      "肾髓质间质高渗梯度",
+      "ADH 释放",
+      "直小血管维持高渗",
+      "肾交感神经强烈兴奋"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 4938,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "肾小管酸碱调节",
+    "stem": "肾小管参与酸碱平衡调节的过程有（  ）",
+    "options": [
+      "Na⁺ -H⁺ 交换",
+      "质子泵泌H⁺",
+      "分泌NH₃ /NH₄ ⁺",
+      "重吸收HCO₃⁻"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 4939,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "利尿剂分类",
+    "stem": "属于保钾利尿剂的是（  ）",
+    "options": [
+      "螺内酯",
+      "阿米洛利",
+      "呋塞米",
+      "氨苯蝶啶"
+    ],
+    "answer": "ABD",
+    "analysis": ""
+  },
+  {
+    "id": 4940,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "肾素分泌调节",
+    "stem": "刺激肾素分泌的因素有（  ）",
+    "options": [
+      "肾动脉灌注压降低",
+      "小管液Na⁺ 减少",
+      "交感神经兴奋",
+      "心房钠尿肽增多"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 4941,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "K⁺ 排泄特点",
+    "stem": "关于K⁺ 代谢特点，说法正确的有（  ）",
+    "options": [
+      "多吃多排",
+      "少吃少排",
+      "不吃也排",
+      "仅近端小管分泌"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 4942,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将物质与重吸收比例连线",
+    "stem": "Na⁺ 、Cl⁻ 、水 对应的是（ ）",
+    "options": [
+      "67%",
+      "100%",
+      "80%",
+      "70%"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4943,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将物质与重吸收比例连线",
+    "stem": "葡萄糖、氨基酸 对应的是（ ）",
+    "options": [
+      "67%",
+      "100%",
+      "80%",
+      "70%"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4944,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将物质与重吸收比例连线",
+    "stem": "HCO₃⁻ 对应的是（ ）",
+    "options": [
+      "67%",
+      "100%",
+      "80%",
+      "70%"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4945,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将物质与重吸收比例连线",
+    "stem": "Ca²⁺ 对应的是（ ）",
+    "options": [
+      "67%",
+      "100%",
+      "80%",
+      "70%"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4946,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将利尿剂与作用靶点连线",
+    "stem": "乙酰唑胺 对应的是（ ）",
+    "options": [
+      "近端小管碳酸酐酶",
+      "髓袢升支粗段Na⁺ -K⁺ -2Cl⁻",
+      "远曲小管Na⁺ -Cl⁻",
+      "集合管醛固酮受体"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4947,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将利尿剂与作用靶点连线",
+    "stem": "呋塞米 对应的是（ ）",
+    "options": [
+      "近端小管碳酸酐酶",
+      "髓袢升支粗段Na⁺ -K⁺ -2Cl⁻",
+      "远曲小管Na⁺ -Cl⁻",
+      "集合管醛固酮受体"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4948,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将利尿剂与作用靶点连线",
+    "stem": "氢氯噻嗪 对应的是（ ）",
+    "options": [
+      "近端小管碳酸酐酶",
+      "髓袢升支粗段Na⁺ -K⁺ -2Cl⁻",
+      "远曲小管Na⁺ -Cl⁻",
+      "集合管醛固酮受体"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4949,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将利尿剂与作用靶点连线",
+    "stem": "螺内酯 对应的是（ ）",
+    "options": [
+      "近端小管碳酸酐酶",
+      "髓袢升支粗段Na⁺ -K⁺ -2Cl⁻",
+      "远曲小管Na⁺ -Cl⁻",
+      "集合管醛固酮受体"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4950,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将疾病与机制连线",
+    "stem": "中枢性尿崩症 对应的是（ ）",
+    "options": [
+      "ADH 合成不足",
+      "V₂ 受体缺陷",
+      "醛固酮分泌过多",
+      "ENaC 突变"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4951,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将疾病与机制连线",
+    "stem": "肾性尿崩症 对应的是（ ）",
+    "options": [
+      "ADH 合成不足",
+      "V₂ 受体缺陷",
+      "醛固酮分泌过多",
+      "ENaC 突变"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4952,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将疾病与机制连线",
+    "stem": "原醛症 对应的是（ ）",
+    "options": [
+      "ADH 合成不足",
+      "V₂ 受体缺陷",
+      "醛固酮分泌过多",
+      "ENaC 突变"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4953,
+    "type": "single",
+    "subject": "生理学",
+    "section": "尿的生成和排出",
+    "chapter": "尿液浓缩和稀释",
+    "topic": "将疾病与机制连线",
+    "stem": "Liddle 综合征 对应的是（ ）",
+    "options": [
+      "ADH 合成不足",
+      "V₂ 受体缺陷",
+      "醛固酮分泌过多",
+      "ENaC 突变"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4954,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "眼的折光系统-折光最强部位",
+    "stem": "眼折光系统中折光能力最强的部位是",
+    "options": [
+      "晶状体",
+      "角膜",
+      "房水",
+      "玻璃体"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4955,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视近物调节-核心结构",
+    "stem": "视近物时，眼调节最重要的结构是",
+    "options": [
+      "瞳孔",
+      "晶状体",
+      "玻璃体",
+      "巩膜"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4956,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "晶状体调节机制",
+    "stem": "睫状肌收缩时，会导致",
+    "options": [
+      "睫状小带紧张",
+      "晶状体变凸",
+      "瞳孔散大",
+      "角膜曲度减小"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4957,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "瞳孔对光反射-中枢部位",
+    "stem": "瞳孔对光反射的中枢位于",
+    "options": [
+      "延髓",
+      "中脑",
+      "丘脑",
+      "枕叶"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4958,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视近物调节-组成",
+    "stem": "下列不属于视近物调节反射的是",
+    "options": [
+      "晶状体变凸",
+      "瞳孔缩小",
+      "视轴会聚",
+      "瞳孔对光反射"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4959,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "屈光不正-近视机制",
+    "stem": "近视眼的成因主要是",
+    "options": [
+      "眼球前后径过短",
+      "眼球前后径过长",
+      "晶状体弹性下降",
+      "角膜曲率不等"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4960,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "老视机制",
+    "stem": "老视的根本原因是",
+    "options": [
+      "眼轴过长",
+      "晶状体弹性降低",
+      "角膜曲率异常",
+      "房水循环障碍"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4961,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视网膜结构-生理性盲点",
+    "stem": "视网膜上的生理性盲点是",
+    "options": [
+      "中央凹",
+      "视神经盘",
+      "黄斑",
+      "色素上皮层"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4962,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "感光换能-动作电位产生部位",
+    "stem": "产生动作电位的视网膜细胞是",
+    "options": [
+      "感光细胞",
+      "双极细胞",
+      "神经节细胞",
+      "色素上皮细胞"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4963,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "感光细胞-视杆细胞色素",
+    "stem": "视杆细胞的感光色素是",
+    "options": [
+      "视紫蓝质",
+      "视紫红质",
+      "视绿质",
+      "视红质"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4964,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视杆细胞-夜盲症原因",
+    "stem": "夜盲症主要是缺乏",
+    "options": [
+      "维生素A",
+      "维生素B",
+      "维生素C",
+      "维生素D"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4965,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视锥细胞-中央凹特点",
+    "stem": "视网膜中央凹视敏度最高的原因是",
+    "options": [
+      "仅含视杆细胞，聚合联系",
+      "仅含视锥细胞，单线联系",
+      "仅含视杆细胞，单线联系",
+      "仅含视锥细胞，聚合联系"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4966,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视觉现象-暗适应本质",
+    "stem": "暗适应主要是哪种细胞功能恢复",
+    "options": [
+      "视锥细胞",
+      "视杆细胞",
+      "双极细胞",
+      "神经节细胞"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4967,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视觉现象-视野颜色排序",
+    "stem": "视野范围最大的颜色是",
+    "options": [
+      "红色",
+      "绿色",
+      "白色",
+      "蓝色"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4968,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视觉通路-损伤表现",
+    "stem": "损伤视交叉中部会导致",
+    "options": [
+      "单眼全盲",
+      "双眼颞侧视野偏盲",
+      "双眼对侧同向偏盲",
+      "黄斑回避"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4969,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视觉",
+    "stem": "近视矫正用",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4970,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视觉",
+    "stem": "远视矫正用",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4971,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视觉",
+    "stem": "散光矫正用",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4972,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "屈光不正-矫正方式",
+    "stem": "明视觉、色觉、高视敏度",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜",
+      "视锥细胞",
+      "视杆细胞",
+      "双极细胞",
+      "神经节细胞"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4973,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "屈光不正-矫正方式",
+    "stem": "暗视觉、光敏度高",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜",
+      "视锥细胞",
+      "视杆细胞",
+      "双极细胞",
+      "神经节细胞"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4974,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "屈光不正-矫正方式",
+    "stem": "产生动作电位",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜",
+      "视锥细胞",
+      "视杆细胞",
+      "双极细胞",
+      "神经节细胞"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4975,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "感光细胞功能区分",
+    "stem": "看近物时瞳孔缩小，减少像差",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜",
+      "视锥细胞",
+      "视杆细胞",
+      "双极细胞",
+      "神经节细胞",
+      "瞳孔对光反射",
+      "瞳孔调节反射",
+      "辐辏反射",
+      "角膜反射"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4976,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "感光细胞功能区分",
+    "stem": "强光下瞳孔缩小，保护视网膜",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜",
+      "视锥细胞",
+      "视杆细胞",
+      "双极细胞",
+      "神经节细胞",
+      "瞳孔对光反射",
+      "瞳孔调节反射",
+      "辐辏反射",
+      "角膜反射"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4977,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "感光细胞功能区分",
+    "stem": "双眼向鼻侧会聚，避免复视",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜",
+      "视锥细胞",
+      "视杆细胞",
+      "双极细胞",
+      "神经节细胞",
+      "瞳孔对光反射",
+      "瞳孔调节反射",
+      "辐辏反射",
+      "角膜反射"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4978,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "眼的反射功能",
+    "stem": "房水循环障碍，眼压升高",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜",
+      "视锥细胞",
+      "视杆细胞",
+      "双极细胞",
+      "神经节细胞",
+      "瞳孔对光反射",
+      "瞳孔调节反射",
+      "辐辏反射",
+      "角膜反射",
+      "青光眼",
+      "白内障",
+      "老视",
+      "飞蚊症"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4979,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "眼的反射功能",
+    "stem": "晶状体混浊",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜",
+      "视锥细胞",
+      "视杆细胞",
+      "双极细胞",
+      "神经节细胞",
+      "瞳孔对光反射",
+      "瞳孔调节反射",
+      "辐辏反射",
+      "角膜反射",
+      "青光眼",
+      "白内障",
+      "老视",
+      "飞蚊症"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4980,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "眼部疾病机制",
+    "stem": "玻璃体混浊",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "柱面镜",
+      "平面镜",
+      "视锥细胞",
+      "视杆细胞",
+      "双极细胞",
+      "神经节细胞",
+      "瞳孔对光反射",
+      "瞳孔调节反射",
+      "辐辏反射",
+      "角膜反射",
+      "青光眼",
+      "白内障",
+      "老视",
+      "飞蚊症"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4981,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "折光系统组成",
+    "stem": "眼的折光系统包括",
+    "options": [
+      "角膜",
+      "房水",
+      "晶状体",
+      "玻璃体"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 4982,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视近物调节",
+    "stem": "视近物时眼的调节反应有",
+    "options": [
+      "睫状肌收缩",
+      "晶状体变凸",
+      "瞳孔缩小",
+      "双眼会聚"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 4983,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "瞳孔调节",
+    "stem": "瞳孔缩小的情况有",
+    "options": [
+      "强光照射",
+      "视近物",
+      "副交感神经兴奋",
+      "交感神经兴奋"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 4984,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视杆细胞特点",
+    "stem": "关于视杆细胞，说法正确的有",
+    "options": [
+      "光敏度高",
+      "视敏度低",
+      "感受暗视觉",
+      "参与色觉形成"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 4985,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "视锥细胞特点",
+    "stem": "关于视锥细胞，说法正确的有",
+    "options": [
+      "三种感光色素",
+      "中央凹含量最高",
+      "负责明视觉与色觉",
+      "对光反应慢"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 4986,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "双眼视觉意义",
+    "stem": "双眼视觉的生理意义包括",
+    "options": [
+      "弥补生理盲点",
+      "扩大视野",
+      "产生立体视觉",
+      "增强分辨能力"
+    ],
+    "answer": "ABC",
+    "analysis": ""
+  },
+  {
+    "id": 4987,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "感光换能机制",
+    "stem": "关于感光换能，正确的有",
+    "options": [
+      "感光细胞产生超极化电位",
+      "神经节细胞产生动作电位",
+      "视紫红质光照后分解",
+      "暗环境下有暗电流"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 4988,
+    "type": "multi",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "明/暗适应",
+    "stem": "下列关于明适应与暗适应，正确的有",
+    "options": [
+      "明适应快，暗适应慢",
+      "明适应初期耀眼因视紫红质骤解",
+      "暗适应主要依赖视杆细胞",
+      "明适应主要依赖视锥细胞"
+    ],
+    "answer": "ABCD",
+    "analysis": ""
+  },
+  {
+    "id": 4989,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "结构与功能连线",
+    "stem": "角膜 对应的是（ ）",
+    "options": [
+      "折光能力最强",
+      "调节折光能力",
+      "生理性盲点",
+      "视敏度最高"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4990,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "结构与功能连线",
+    "stem": "晶状体 对应的是（ ）",
+    "options": [
+      "折光能力最强",
+      "调节折光能力",
+      "生理性盲点",
+      "视敏度最高"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4991,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "结构与功能连线",
+    "stem": "视神经盘 对应的是（ ）",
+    "options": [
+      "折光能力最强",
+      "调节折光能力",
+      "生理性盲点",
+      "视敏度最高"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4992,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "结构与功能连线",
+    "stem": "中央凹 对应的是（ ）",
+    "options": [
+      "折光能力最强",
+      "调节折光能力",
+      "生理性盲点",
+      "视敏度最高"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4993,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "疾病与机制连线",
+    "stem": "近视 对应的是（ ）",
+    "options": [
+      "眼轴过长/折光过强",
+      "眼轴过短/折光过弱",
+      "晶状体弹性下降",
+      "房水循环障碍、眼压升高"
+    ],
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": 4994,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "疾病与机制连线",
+    "stem": "远视 对应的是（ ）",
+    "options": [
+      "眼轴过长/折光过强",
+      "眼轴过短/折光过弱",
+      "晶状体弹性下降",
+      "房水循环障碍、眼压升高"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4995,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "疾病与机制连线",
+    "stem": "老视 对应的是（ ）",
+    "options": [
+      "眼轴过长/折光过强",
+      "眼轴过短/折光过弱",
+      "晶状体弹性下降",
+      "房水循环障碍、眼压升高"
+    ],
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": 4996,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "视觉",
+    "topic": "疾病与机制连线",
+    "stem": "青光眼 对应的是（ ）",
+    "options": [
+      "眼轴过长/折光过强",
+      "眼轴过短/折光过弱",
+      "晶状体弹性下降",
+      "房水循环障碍、眼压升高"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4997,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "听觉",
+    "topic": "中耳传音增压减幅效应",
+    "stem": "中耳传音过程中， 鼓膜 - 听骨链的作用是",
+    "options": [
+      "幅度增大 ， 压强增大",
+      "幅度减小 ， 压强减小",
+      "幅度增大 ， 压强减小",
+      "幅度减小 ， 压强增大"
+    ],
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": 4998,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "听觉",
+    "topic": "咽鼓管功能",
+    "stem": "维持鼓膜内外压力平衡的关键结构是",
+    "options": [
+      "外耳道",
+      "咽鼓管",
+      "听骨链",
+      "鼓膜张肌"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 4999,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "听觉",
+    "topic": "耳蜗内电位形成机制",
+    "stem": "耳蜗内淋巴高钾的形成与维持主要依靠",
+    "options": [
+      "基底膜",
+      "血管纹",
+      "前庭膜",
+      "螺旋器"
+    ],
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": 5000,
+    "type": "single",
+    "subject": "生理学",
+    "section": "感觉器官",
+    "chapter": "听觉",
+    "topic": "耳毒性药物机制",
+    "stem": "长期用呋塞米致感音性耳聋的主要原因是",
+    "options": [
+      "损伤内毛细胞",
+      "损伤外毛细胞",
+      "抑制血管纹Na⁺-K⁺-2Cl⁻ 转运",
+      "阻断听神经传导"
+    ],
+    "answer": "C",
+    "analysis": ""
+  }
+]

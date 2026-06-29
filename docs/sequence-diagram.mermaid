@@ -1,0 +1,29 @@
+sequenceDiagram
+    participant User
+    participant App as MaterialApp
+    participant Theme as AppTheme
+    participant Styles as AppStyles
+    participant Screen as Any Screen
+    participant Widget as UI Widget
+
+    Note over App,Widget: 应用启动流程
+    App->>Theme: 读取 AppTheme.lightTheme
+    Theme->>Styles: 引用 AppColors / AppStyles
+    Theme-->>App: 返回完整 ThemeData
+    App->>Screen: 构建页面
+    Screen->>Widget: 传递主题上下文
+
+    Note over Widget,Widget: 选项渲染流程（OptionItem）
+    Widget->>Widget: 根据 isAnswered/isCorrectOption/isUserWrong/isSelected<br/>计算 OptionState 枚举值
+    Widget->>Styles: 调用 optionStyleFor(state)
+    Styles-->>Widget: 返回 OptionStyle 值对象
+    Widget->>Widget: 使用 OptionStyle 属性构建 BoxDecoration + Text
+
+    Note over Widget,Widget: 筛选卡片（SelectionCard）
+    Widget->>Styles: 使用 cardBorder / radiusCard / cardShadow
+    Widget->>AppColors: 读取 primaryLight 作为选中项背景
+    Widget->>AppColors: 读取 primary / primaryDark 作为文字色
+
+    Note over Widget,Widget: 题号抽屉（QuestionDrawer）
+    Widget->>AppColors: 读取 correct/wrong/bookmark/unanswered 作为圆点色
+    Widget->>AppColors: 读取 primary 作为当前题号边框色
