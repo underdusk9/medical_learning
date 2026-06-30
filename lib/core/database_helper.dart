@@ -107,6 +107,11 @@ class DatabaseHelper {
       final prefs = await SharedPreferences.getInstance();
       await prefs.setBool(AppConstants.prefDbSeeded, false);
     }
+    if (oldVersion < 6) {
+      // v6：新增内科学循环系统疾病题库（200 题，id 6000-6199）
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setBool(AppConstants.prefDbSeeded, false);
+    }
   }
 
   /// 重置数据库（删除后重新创建）

@@ -34,8 +34,8 @@ class AppConstants {
 
   /// 数据库
   static const String dbName = 'medical_quiz.db';
-  static const int dbVersion = 5;
-  static const String appVersion = '1.4.0';
+  static const int dbVersion = 6;
+  static const String appVersion = '1.5.0';
 
   /// 路由名称
   static const String routeHome = '/';
@@ -80,6 +80,8 @@ class AppConstants {
     'assets/questions/source/内科学_选择题_part03_5701-5800.json',
     'assets/questions/source/内科学_选择题_part04_5801-5900.json',
     'assets/questions/source/内科学_选择题_part05_5901-5964.json',
+    'assets/questions/source/内科学_循环系统疾病_选择题_part01_6000-6099.json',
+    'assets/questions/source/内科学_循环系统疾病_选择题_part02_6100-6199.json',
   ];
 
   /// SharedPreferences 键

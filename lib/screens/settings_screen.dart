@@ -279,7 +279,17 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
       const SnackBar(content: Text('正在检查更新...')),
     );
 
-    final result = await UpdateService.checkForUpdate();
+    UpdateCheckResult result;
+    try {
+      result = await UpdateService.checkForUpdate();
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('检查失败：${e.toString()}')),
+        );
+      }
+      return;
+    }
 
     if (!mounted) return;
 
@@ -341,34 +351,59 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
   }
 
   Future<void> _downloadAndInstall(String url) async {
-    // 弹窗提示下载中
     if (!mounted) return;
+
+    // 进度弹窗
+    final progressNotifier = ValueNotifier(0.0);
     showDialog(
       context: context,
       barrierDismissible: false,
-      builder: (ctx) => const AlertDialog(
-        content: Row(
-          children: [
-            SizedBox(
-              width: 24,
-              height: 24,
-              child: CircularProgressIndicator(strokeWidth: 2),
-            ),
-            SizedBox(width: 16),
-            Text('正在下载更新...'),
-          ],
+      builder: (ctx) => AlertDialog(
+        title: const Text('正在下载更新'),
+        content: ValueListenableBuilder<double>(
+          valueListenable: progressNotifier,
+          builder: (context, value, child) => Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              LinearProgressIndicator(value: value > 0 ? value : null),
+              const SizedBox(height: 8),
+              Text(
+                value > 0
+                    ? '${(value * 100).toStringAsFixed(1)}%'
+                    : '准备下载...',
+              ),
+            ],
+          ),
         ),
       ),
     );
 
     try {
-      await UpdateService.downloadAndInstall(url);
-      if (mounted) Navigator.of(context).pop(); // 关掉进度弹窗
+      final filePath = await UpdateService.downloadAPK(
+        url,
+        onProgress: (p) => progressNotifier.value = p,
+      );
+      if (mounted) Navigator.of(context).pop();
+      await UpdateService.installAPK(filePath);
+    } on DownloadException catch (e) {
+      if (mounted) {
+        Navigator.of(context).pop();
+        final messages = {
+          DownloadErrorType.network: '网络连接失败，请检查网络后重试',
+          DownloadErrorType.permission: '权限不足，请手动前往 GitHub 下载 APK',
+          DownloadErrorType.diskSpace: '手机存储空间不足，请清理后重试',
+          DownloadErrorType.hashMismatch: '下载文件损坏，请重新下载',
+          DownloadErrorType.other: '操作失败: ${e.message}',
+        };
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text(messages[e.type] ?? e.message)),
+        );
+      }
     } catch (e) {
       if (mounted) {
-        Navigator.of(context).pop(); // 关掉进度弹窗
+        Navigator.of(context).pop();
         ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('下载失败: $e')),
+          SnackBar(content: Text('下载失败：${e.toString()}')),
         );
       }
     }
