@@ -15,6 +15,17 @@ class ChangelogScreen extends StatelessWidget {
         padding: const EdgeInsets.all(16),
         children: [
           _buildVersionCard(
+            'v1.4.0',
+            '2026-06-30',
+            [
+              _LogItem('新增', '检查更新功能：设置页可检查 GitHub 最新版本'),
+              _LogItem('新增', '更新支持两种模式：网页下载 / 在线下载并安装'),
+              _LogItem('改进', '作者二维码支持点击查看大图（双指缩放）'),
+              _LogItem('改进', '修复二维码显示被裁剪的问题'),
+            ],
+          ),
+          const SizedBox(height: 12),
+          _buildVersionCard(
             'v1.3.0',
             '2026-06-29',
             [

@@ -35,6 +35,7 @@ class AppConstants {
   /// 数据库
   static const String dbName = 'medical_quiz.db';
   static const int dbVersion = 5;
+  static const String appVersion = '1.4.0';
 
   /// 路由名称
   static const String routeHome = '/';
@@ -85,6 +86,10 @@ class AppConstants {
   static const String prefDbSeeded = 'db_seeded';
   static const String prefNoteWithAnswer = 'note_with_answer';
   static const String prefLastVersion = 'last_app_version';
+
+  /// GitHub
+  static const String githubRepo = 'underdusk9/medical_learning';
+  static const String githubReleaseUrl = 'https://github.com/underdusk9/medical_learning/releases/latest';
 }
 
 /// 应用样式常量

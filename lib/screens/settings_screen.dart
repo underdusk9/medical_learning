@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+import 'package:url_launcher/url_launcher.dart';
 import '../services/import_service.dart';
 import '../services/clear_data_service.dart';
+import '../services/update_service.dart';
 import '../core/constants.dart';
 import '../providers/settings_provider.dart';
 
@@ -75,6 +77,18 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
               onTap: _clearData,
             ),
           ),
+          const SizedBox(height: 16),
+
+          // 检查更新
+          Card(
+            child: ListTile(
+              leading: const Icon(Icons.system_update, color: AppColors.primary),
+              title: const Text('检查更新'),
+              subtitle: const Text('当前版本 v1.4.0'),
+              trailing: const Icon(Icons.chevron_right),
+              onTap: _checkUpdate,
+            ),
+          ),
           const SizedBox(height: 32),
 
           // 关于信息
@@ -86,7 +100,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
           ),
           const SizedBox(height: 8),
           Text(
-            '小han刷题 v1.3.0',
+            '小han刷题 v1.4.0',
             style: TextStyle(color: AppColors.textSecondary),
           ),
           const SizedBox(height: 4),
@@ -126,18 +140,21 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
               padding: const EdgeInsets.all(16),
               child: Column(
                 children: [
-                  ClipRRect(
-                    borderRadius: BorderRadius.circular(8),
-                    child: Image.asset(
-                      'assets/images/author_qr.jpg',
-                      width: 180,
-                      height: 180,
-                      fit: BoxFit.cover,
+                  GestureDetector(
+                    onTap: _showAuthorQrFullscreen,
+                    child: ClipRRect(
+                      borderRadius: BorderRadius.circular(8),
+                      child: Image.asset(
+                        'assets/images/author_qr.jpg',
+                        width: 160,
+                        height: 160,
+                        fit: BoxFit.contain,
+                      ),
                     ),
                   ),
                   const SizedBox(height: 12),
                   Text(
-                    '扫描二维码关注作者',
+                    '点击二维码查看大图',
                     style: TextStyle(
                       color: AppColors.textSecondary,
                       fontSize: 13,
@@ -255,5 +272,126 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
         );
       }
     }
+  }
+
+  Future<void> _checkUpdate() async {
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(content: Text('正在检查更新...')),
+    );
+
+    final result = await UpdateService.checkForUpdate();
+
+    if (!mounted) return;
+
+    if (result.hasUpdate) {
+      final choice = await showDialog<String>(
+        context: context,
+        builder: (ctx) => AlertDialog(
+          title: const Text('发现新版本'),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text('最新版本：v${result.latestVersion}'),
+              if (result.releaseNotes != null) ...[
+                const SizedBox(height: 12),
+                Text(
+                  result.releaseNotes!,
+                  style: TextStyle(
+                    fontSize: 13,
+                    color: AppColors.textSecondary,
+                  ),
+                  maxLines: 8,
+                  overflow: TextOverflow.ellipsis,
+                ),
+              ],
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(ctx).pop(null),
+              child: const Text('稍后'),
+            ),
+            if (result.apkDownloadUrl != null)
+              TextButton(
+                onPressed: () => Navigator.of(ctx).pop('online'),
+                child: const Text('在线下载'),
+              ),
+            ElevatedButton(
+              onPressed: () => Navigator.of(ctx).pop('web'),
+              child: const Text('网页下载'),
+            ),
+          ],
+        ),
+      );
+
+      if (!mounted || choice == null) return;
+
+      if (choice == 'web') {
+        final url = result.releasePageUrl ?? AppConstants.githubReleaseUrl;
+        await launchUrl(Uri.parse(url), mode: LaunchMode.externalApplication);
+      } else if (choice == 'online' && result.apkDownloadUrl != null) {
+        _downloadAndInstall(result.apkDownloadUrl!);
+      }
+    } else {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('已是最新版本 v${AppConstants.appVersion}')),
+      );
+    }
+  }
+
+  Future<void> _downloadAndInstall(String url) async {
+    // 弹窗提示下载中
+    if (!mounted) return;
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (ctx) => const AlertDialog(
+        content: Row(
+          children: [
+            SizedBox(
+              width: 24,
+              height: 24,
+              child: CircularProgressIndicator(strokeWidth: 2),
+            ),
+            SizedBox(width: 16),
+            Text('正在下载更新...'),
+          ],
+        ),
+      ),
+    );
+
+    try {
+      await UpdateService.downloadAndInstall(url);
+      if (mounted) Navigator.of(context).pop(); // 关掉进度弹窗
+    } catch (e) {
+      if (mounted) {
+        Navigator.of(context).pop(); // 关掉进度弹窗
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('下载失败: $e')),
+        );
+      }
+    }
+  }
+
+  void _showAuthorQrFullscreen() {
+    showDialog(
+      context: context,
+      builder: (ctx) => Dialog(
+        backgroundColor: Colors.transparent,
+        child: GestureDetector(
+          onTap: () => Navigator.of(ctx).pop(),
+          child: InteractiveViewer(
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(12),
+              child: Image.asset(
+                'assets/images/author_qr.jpg',
+                fit: BoxFit.contain,
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
   }
 }
