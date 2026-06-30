@@ -15,6 +15,17 @@ class ChangelogScreen extends StatelessWidget {
         padding: const EdgeInsets.all(16),
         children: [
           _buildVersionCard(
+            'v1.6.0',
+            '2026-06-30',
+            [
+              _LogItem('改进', '优化更新体验：镜像优先 + 进度条 + 断点续传 + 哈希校验'),
+              _LogItem('改进', '新增蓝奏云下载通道（含密码自动填充）'),
+              _LogItem('改进', '修复空间不足误报问题'),
+              _LogItem('改进', '版本号统一从代码常量读取，修复显示不一致'),
+            ],
+          ),
+          const SizedBox(height: 12),
+          _buildVersionCard(
             'v1.4.0',
             '2026-06-30',
             [

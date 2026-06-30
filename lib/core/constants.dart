@@ -35,7 +35,7 @@ class AppConstants {
   /// 数据库
   static const String dbName = 'medical_quiz.db';
   static const int dbVersion = 6;
-  static const String appVersion = '1.5.0';
+  static const String appVersion = '1.6.0';
 
   /// 路由名称
   static const String routeHome = '/';
