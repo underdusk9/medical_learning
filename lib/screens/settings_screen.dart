@@ -329,7 +329,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
               ),
             TextButton(
               onPressed: () => Navigator.of(ctx).pop('lanzou'),
-              child: const Text('蓝奏云下载'),
+              child: const Text('蓝奏云下载(密码cogb)'),
             ),
             ElevatedButton(
               onPressed: () => Navigator.of(ctx).pop('web'),
