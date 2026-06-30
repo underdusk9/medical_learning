@@ -92,6 +92,10 @@ class AppConstants {
   /// GitHub
   static const String githubRepo = 'underdusk9/medical_learning';
   static const String githubReleaseUrl = 'https://github.com/underdusk9/medical_learning/releases/latest';
+
+  /// 蓝奏云
+  static const String lanzouUrl = 'https://wwboz.lanzouw.com/ivwNd3sjb19c';
+  static const String lanzouPassword = 'cogb';
 }
 
 /// 应用样式常量

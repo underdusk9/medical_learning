@@ -327,9 +327,13 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                 onPressed: () => Navigator.of(ctx).pop('online'),
                 child: const Text('在线下载'),
               ),
+            TextButton(
+              onPressed: () => Navigator.of(ctx).pop('lanzou'),
+              child: const Text('蓝奏云下载'),
+            ),
             ElevatedButton(
               onPressed: () => Navigator.of(ctx).pop('web'),
-              child: const Text('网页下载'),
+              child: const Text('GitHub下载'),
             ),
           ],
         ),
@@ -342,6 +346,11 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
         await launchUrl(Uri.parse(url), mode: LaunchMode.externalApplication);
       } else if (choice == 'online' && result.apkDownloadUrl != null) {
         _downloadAndInstall(result.apkDownloadUrl!);
+      } else if (choice == 'lanzou') {
+        await launchUrl(
+          Uri.parse(AppConstants.lanzouUrl),
+          mode: LaunchMode.externalApplication,
+        );
       }
     } else {
       ScaffoldMessenger.of(context).showSnackBar(

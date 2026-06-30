@@ -158,15 +158,6 @@ class UpdateService {
       final expectedTotal =
           existingBytes + (total > 0 ? total : 0);
 
-      // 检查磁盘空间
-      if (expectedTotal > 0) {
-        final stat = await dir.stat();
-        if (stat.size < expectedTotal * 1.2) {
-          throw const DownloadException(
-              DownloadErrorType.diskSpace, '磁盘空间不足，请释放空间后重试');
-        }
-      }
-
       // 如果是续传，以追加模式写入
       final raf = await file.open(mode: existingBytes > 0 ? FileMode.append : FileMode.write);
       int received = existingBytes;
