@@ -84,7 +84,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             child: ListTile(
               leading: const Icon(Icons.system_update, color: AppColors.primary),
               title: const Text('检查更新'),
-              subtitle: const Text('当前版本 v1.4.0'),
+              subtitle: Text('当前版本 v${AppConstants.appVersion}'),
               trailing: const Icon(Icons.chevron_right),
               onTap: _checkUpdate,
             ),
@@ -100,7 +100,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
           ),
           const SizedBox(height: 8),
           Text(
-            '小han刷题 v1.4.0',
+            '小han刷题 v${AppConstants.appVersion}',
             style: TextStyle(color: AppColors.textSecondary),
           ),
           const SizedBox(height: 4),
